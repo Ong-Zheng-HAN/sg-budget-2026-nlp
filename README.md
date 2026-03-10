@@ -1,6 +1,6 @@
 # Project: 2026 Budget Speech NLP Analysis (Lawrence Wong)
 
-This notebook analyzes a transcript of Prime Minister Lawrence Wong’s 2026 Budget Speech using basic NLP techniques. It cleans and tokenizes the text, calculates word frequencies, visualizes the top 20 keywords, and uses dispersion-style plots to examine when key terms appear throughout the speech (e.g., “singapore”, “support”, “ai”) as well as comparisons like business vs family keywords.
+This notebook analyzes a transcript of Prime Minister Lawrence Wong’s 2026 Budget Speech using basic NLP techniques through ollama (model: llama3.1). It cleans and tokenizes the text, calculates word frequencies, visualizes the top 20 keywords, and uses dispersion-style plots to examine when key terms appear throughout the speech (e.g., “singapore”, “support”, “ai”) as well as comparisons like business vs family keywords.
 
 ## What it does
 Cleans raw transcript text
