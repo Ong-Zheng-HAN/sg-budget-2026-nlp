@@ -51,4 +51,4 @@ nltk, pandas, numpy, lets-plot
 
 Make sure Lawrence Wong Speech.txt is in the same folder as the notebook
 
-Run all cells in 2026 Budget Speech Analysis_EDITED.ipynb
+Run all cells in 2026 Budget Speech Analysis.ipynb
